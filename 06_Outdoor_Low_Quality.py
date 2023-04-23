@@ -6,7 +6,10 @@ scene.pov.radio_display_advanced = Tru
 
 scene.pov.radio_adc_bailout = 0.005
 scene.pov.radio_always_sample = False
+
+
 scene.pov.radio_brightness = 1.0
+
 scene.pov.radio_count = 80
 
 
@@ -17,6 +20,7 @@ scene.pov.radio_gray_threshold = 0.0
 
 
 scene.pov.radio_low_error_factor = 0.8
+
 
 scene.pov.radio_media = False
 
