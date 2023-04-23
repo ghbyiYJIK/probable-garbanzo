@@ -5,6 +5,8 @@ import test._test_multiprocessing
 
 
 
+
+
 from test import support
 
 if support.PGO:
@@ -12,9 +14,12 @@ if support.PGO:
     
     
     
+    
 
 
 test._test_multiprocessing.install_tests_in_module_dict(globals(), 'fork')
+
+
 
 
 
